@@ -3,107 +3,107 @@
   "WorkspaceRootPath": "D:\\ASP.NET CORE\\PhoneManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\repository\\phonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:repository\\phonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\extension\\apikeyauthenextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:extension\\apikeyauthenextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\repository\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:repository\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\requestresetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:requestresetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\requestverifyemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:requestverifyemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\sendmailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:sendmailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\requestforgetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:requestforgetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\requestregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:requestregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\requestloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:requestloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\emailsettingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:emailsettingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\responseloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:responseloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|d:\\asp.net core\\phonemanagement\\phonemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F225D58-BAB1-4410-9DA9-C7D79916062E}|PhoneManagement.csproj|solutionrelative:phonemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\EmailController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\EmailController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\CRMCar\\CRMCar\\Controllers\\CarsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Repository\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Service\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\SendMailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SendMailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\EmailSettingModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmailSettingModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Extension\\ApiKeyAuthenExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Extension\\ApiKeyAuthenExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\PhoneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\PhoneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Models\\RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Models\\Phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Repository\\PhoneRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\PhoneRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Service\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Repository\\RefreshTokenRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\RefreshTokenRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\RequestResetPasswordModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RequestResetPasswordModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\RequestVerifyEmailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RequestVerifyEmailModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\RequestForgetPasswordModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RequestForgetPasswordModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\RequestRegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RequestRegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\RequestLoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RequestLoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\ResponseLoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ResponseLoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET CORE\\PhoneManagement\\PhoneModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,7 +113,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,27 +121,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PhoneRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\PhoneRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\PhoneRepository.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\PhoneRepository.cs",
-              "RelativeToolTip": "Repository\\PhoneRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA3wBYAAAANAAAA",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T07:42:13.057Z"
+              "WhenOpened": "2024-05-04T06:11:14.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Phone.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Models\\Phone.cs",
-              "RelativeDocumentMoniker": "Models\\Phone.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Models\\Phone.cs",
-              "RelativeToolTip": "Models\\Phone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T06:40:27.352Z"
+              "WhenOpened": "2024-05-06T06:03:42.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:50:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Service\\EmailService.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Service\\EmailService.cs",
+              "RelativeToolTip": "Service\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:10:54.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SendMailModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\SendMailModel.cs",
+              "RelativeDocumentMoniker": "SendMailModel.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\SendMailModel.cs",
+              "RelativeToolTip": "SendMailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:38:36.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailSettingModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\EmailSettingModel.cs",
+              "RelativeDocumentMoniker": "EmailSettingModel.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\EmailSettingModel.cs",
+              "RelativeToolTip": "EmailSettingModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:06:58.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:47:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiKeyAuthenExtension.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Extension\\ApiKeyAuthenExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApiKeyAuthenExtension.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Extension\\ApiKeyAuthenExtension.cs",
+              "RelativeToolTip": "Extension\\ApiKeyAuthenExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:26:27.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhoneController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\PhoneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhoneController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\PhoneController.cs",
+              "RelativeToolTip": "Controllers\\PhoneController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAADwv4gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:03:24.004Z"
             },
             {
               "$type": "Document",
@@ -157,68 +242,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PhoneController.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\PhoneController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PhoneController.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\PhoneController.cs",
-              "RelativeToolTip": "Controllers\\PhoneController.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAADwv4gAAAAAAAAA",
+              "DocumentIndex": 11,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Models\\Phone.cs",
+              "RelativeDocumentMoniker": "Models\\Phone.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Models\\Phone.cs",
+              "RelativeToolTip": "Models\\Phone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T03:03:24.004Z"
+              "WhenOpened": "2024-05-06T06:40:27.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiKeyAuthenExtension.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Extension\\ApiKeyAuthenExtension.cs",
-              "RelativeDocumentMoniker": "Extension\\ApiKeyAuthenExtension.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Extension\\ApiKeyAuthenExtension.cs",
-              "RelativeToolTip": "Extension\\ApiKeyAuthenExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "DocumentIndex": 12,
+              "Title": "PhoneRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\PhoneRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PhoneRepository.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\PhoneRepository.cs",
+              "RelativeToolTip": "Repository\\PhoneRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wBYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T07:26:27.049Z"
+              "WhenOpened": "2024-05-06T07:42:13.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T06:11:14.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T06:03:42.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T02:50:29.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Service\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "Service\\AuthenticationService.cs",
@@ -230,19 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Service\\EmailService.cs",
-              "RelativeDocumentMoniker": "Service\\EmailService.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Service\\EmailService.cs",
-              "RelativeToolTip": "Service\\EmailService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T02:10:54.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -254,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "RefreshTokenRepository.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Repository\\RefreshTokenRepository.cs",
               "RelativeDocumentMoniker": "Repository\\RefreshTokenRepository.cs",
@@ -266,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -278,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "RequestResetPasswordModel.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\RequestResetPasswordModel.cs",
               "RelativeDocumentMoniker": "RequestResetPasswordModel.cs",
@@ -290,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
@@ -302,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -314,19 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EmailController.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\EmailController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\Controllers\\EmailController.cs",
-              "RelativeToolTip": "Controllers\\EmailController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T02:47:57.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "RequestVerifyEmailModel.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\RequestVerifyEmailModel.cs",
               "RelativeDocumentMoniker": "RequestVerifyEmailModel.cs",
@@ -338,19 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SendMailModel.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\SendMailModel.cs",
-              "RelativeDocumentMoniker": "SendMailModel.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\SendMailModel.cs",
-              "RelativeToolTip": "SendMailModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T07:38:36.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "RequestForgetPasswordModel.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\RequestForgetPasswordModel.cs",
               "RelativeDocumentMoniker": "RequestForgetPasswordModel.cs",
@@ -362,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "RequestRegisterModel.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\RequestRegisterModel.cs",
               "RelativeDocumentMoniker": "RequestRegisterModel.cs",
@@ -374,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "RequestLoginModel.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\RequestLoginModel.cs",
               "RelativeDocumentMoniker": "RequestLoginModel.cs",
@@ -386,19 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EmailSettingModel.cs",
-              "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\EmailSettingModel.cs",
-              "RelativeDocumentMoniker": "EmailSettingModel.cs",
-              "ToolTip": "D:\\ASP.NET CORE\\PhoneManagement\\EmailSettingModel.cs",
-              "RelativeToolTip": "EmailSettingModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T07:06:58.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ResponseLoginModel.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\ResponseLoginModel.cs",
               "RelativeDocumentMoniker": "ResponseLoginModel.cs",
@@ -410,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "PhoneModel.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\PhoneManagement\\PhoneModel.cs",
               "RelativeDocumentMoniker": "PhoneModel.cs",
@@ -422,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 1,
               "Title": "CarsController.cs",
               "DocumentMoniker": "D:\\ASP.NET CORE\\CRMCar\\CRMCar\\Controllers\\CarsController.cs",
               "RelativeDocumentMoniker": "..\\CRMCar\\CRMCar\\Controllers\\CarsController.cs",
